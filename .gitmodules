@@ -1,0 +1,3 @@
+[submodule "task1-fuzzy-system"]
+	path = task1-fuzzy-system
+	url = https://github.com/Dzalapino/fuzzy-system.git
