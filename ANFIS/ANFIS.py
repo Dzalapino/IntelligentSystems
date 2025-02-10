@@ -10,11 +10,11 @@ import time
 from sklearn.metrics import confusion_matrix
 from sklearn.model_selection import train_test_split
 
-from helps_and_enhancers import calculate_combinations, my_reshape
-from operators import productN
-from params import FuzzyInputVariable_3Trapezoids, FuzzyInputVariable_2Trapezoids
+from .helps_and_enhancers import calculate_combinations, my_reshape
+from .operators import productN
+from .params import FuzzyInputVariable_3Trapezoids, FuzzyInputVariable_2Trapezoids
 
-from goal_function_object import *
+from .goal_function_object import *
 
 
 class ANFIS:
