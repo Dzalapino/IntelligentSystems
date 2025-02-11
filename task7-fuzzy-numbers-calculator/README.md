@@ -1,0 +1,1 @@
+Implement a simple calculator for fuzzy numbers. The calculator should allow to define triangular membership functions for input variables (using CLI), perform unary and binary operations (negative number, reciprocal, absolute value, addition, subtraction, multiplication, division) and display the result together with input variables in a graphical form .
