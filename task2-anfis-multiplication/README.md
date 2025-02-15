@@ -1,1 +1,1 @@
- 
+Train ANFIS to multiply two numbers.

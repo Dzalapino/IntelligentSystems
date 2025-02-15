@@ -7,3 +7,10 @@ __pycache__/
 
 # Poetry
 poetry.lock
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# venv
+.venv/
+
